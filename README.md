@@ -1,4 +1,4 @@
-# CS50x Problem Sets
+## Introduction
 
 This repository contains my solutions to problem sets from [CS50x - Introduction to Computer Science](https://cs50.harvard.edu/x/), a course by Harvard University.
 
