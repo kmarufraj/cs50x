@@ -11,6 +11,6 @@ https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4
 
 # Tools provided by the course
 
-    1. cs50 AI bot - (https://cs50.ai/chat)
-    2. cs50 IDE - (https://glorious-rotary-phone-gwrwq5xjrwg2w46j.github.dev/?autoStart=true&folder=%2Fworkspaces%2F89417830&vscodeChannel=stable)
-    3. Scratch - (https://scratch.mit.edu/)
+1. cs50 AI bot - (https://cs50.ai/chat)
+2. cs50 IDE - (https://glorious-rotary-phone-gwrwq5xjrwg2w46j.github.dev/?autoStart=true&folder=%2Fworkspaces%2F89417830&vscodeChannel=stable)
+3. Scratch - (https://scratch.mit.edu/)
