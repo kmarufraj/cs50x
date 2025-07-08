@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/kmarufraj/Desktop/repo/cs50x",
-      "program": "/Users/kmarufraj/Desktop/repo/cs50x/build/Debug/outDebug"
+      "cwd": ".",
+      "program": "build/Debug/outDebug"
     }
   ]
 }
