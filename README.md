@@ -3,6 +3,8 @@ This repository contains my solutions to problem sets from [cs50x - Introduction
 
 [Youtube Link](https://www.youtube.com/playlist?list=PLhQjrBD2T381WAHyx1pq-sBfykqMBI7V4)
 
+[Problem Set Link](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home)
+
 
 # Tools provided
 
