@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/kmarufraj/Desktop/repo/cs50x/Lecture-1/credit",
-      "program": "/Users/kmarufraj/Desktop/repo/cs50x/Lecture-1/credit/build/Debug/outDebug"
+      "cwd": ".",
+      "program": "build/Debug/outDebug"
     }
   ]
 }
