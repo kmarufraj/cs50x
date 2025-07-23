@@ -1,0 +1,11 @@
+sort1 uses: Selection Sort
+
+How do you know?: Because sort1 was slow for all input files
+
+sort2 uses: Bubble Sort
+
+How do you know?: Because sort2 was fast on sorted data and was slower on reversed and random files
+
+sort3 uses: Merge Sort
+
+How do you know?: Because it was fast in all the cases
