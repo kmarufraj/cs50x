@@ -11,4 +11,4 @@ This repository contains my solutions to problem sets from [cs50x - Introduction
 1. [cs50 AI bot](https://cs50.ai/chat)
 2. [cs50 IDE](https://glorious-rotary-phone-gwrwq5xjrwg2w46j.github.dev/?autoStart=true&folder=%2Fworkspaces%2F89417830&vscodeChannel=stable)
 3. [Scratch](https://scratch.mit.edu/)
-4. [CS50 Pixel Art](cs50.ly/art)
+4. [CS50 Pixel Art](https://docs.google.com/spreadsheets/d/1ZYVZX74OXhoPKbV_Sekx5Ubvf9YgcakLCpHvRb1TpKQ/copy)
